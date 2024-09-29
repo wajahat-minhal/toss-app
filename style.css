@@ -1,0 +1,28 @@
+body{
+    background-color:#2f4f4f;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 20px;
+    background-color: #ffe4c4;
+    width: 50vw;
+    height: 50vh;
+    margin: 0 auto;
+}
+
+/* .heading{
+    padding-bottom: 100px;
+} */
+.btn{
+    background-color: #00ffff;
+    font-size: 1.3rem;
+    padding: 10px;
+    border: 1px solid #ffe4c4;
+    border-radius: 5px;
+}
